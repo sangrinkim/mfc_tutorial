@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCComonDialog", "MFCComonDialog\MFCComonDialog.vcxproj", "{53E64B33-C488-434D-B256-13C2F0EE122C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E64B33-C488-434D-B256-13C2F0EE122C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53E64B33-C488-434D-B256-13C2F0EE122C}.Debug|Win32.Build.0 = Debug|Win32
+		{53E64B33-C488-434D-B256-13C2F0EE122C}.Release|Win32.ActiveCfg = Release|Win32
+		{53E64B33-C488-434D-B256-13C2F0EE122C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
